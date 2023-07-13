@@ -17,7 +17,7 @@ let car = {
     
 }
 
-let car2 : car = {
+let car2 = {
     name: "Ferari",
     model: "Sedan"
 }
