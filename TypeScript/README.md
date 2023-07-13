@@ -8,4 +8,8 @@ $ tsc --watch --preserveWatchOutput
 
 //node types
 npm i --save-dev @types/node
+```
 
+```
+ npm i --save-dev ts-node -> No need of tsc anymore in simple scripts
+```
